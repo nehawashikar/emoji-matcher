@@ -2,6 +2,10 @@
 
 A machine learning model that suggests emojis based on the sentiment of a given text input. This project aims to enhance digital communication by providing users with the most relevant emoji suggestions, improving user experience on social media platforms.
 
+Example:
+<img width="839" alt="IMG_6734" src="https://github.com/user-attachments/assets/9471f262-e334-426f-8c07-d7b695a1748c">
+
+
 ## Problem Statement
 
 People often struggle to find the right emoji to express their emotions accurately. Emoji Matcher addresses this by suggesting probable emojis based on text sentiment, making it quicker and easier to compose expressive messages.
